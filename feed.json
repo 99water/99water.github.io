@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Water99",
+    "description": "",
+    "home_page_url": "https://99water.github.io",
+    "feed_url": "https://99water.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Winter Soldier"
+    },
+    "items": [
+    ]
+}
